@@ -1,0 +1,8 @@
+body { 
+    background-color: lightblue; /* This will change the website background to light blue */ 
+    font-family: Arial;          /* This will make the font clean and readable */ 
+} 
+
+h1 { 
+    color: darkblue;             /* This is used to change the heading color */ 
+}
